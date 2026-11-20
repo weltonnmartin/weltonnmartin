@@ -48,7 +48,7 @@ Projeto de classificação para identificar clientes com maior propensão ao can
 
 📂 **[Explorar o repositório e o notebook](https://github.com/weltonnmartin/telco-customer-churn)**
 
-#### 🛠️ PC Price Intelligence — Em desenvolvimento
+#### 🛠️ PC PRICE INTELENGE — Em desenvolvimento
 
 Projeto de Ciência de Dados em desenvolvimento, voltado à **análise de preços de computadores e componentes**. A proposta é explorar dados de anúncios e investigar padrões de precificação, conectando coleta de dados, análise estatística e modelagem.
 
@@ -56,7 +56,7 @@ Projeto de Ciência de Dados em desenvolvimento, voltado à **análise de preço
 
 ### No que estou trabalhando
 
-- Desenvolvimento do **PC Price Intelligence**.
+- Desenvolvimento do **PC PRICE INTELENGE**.
 - Fortalecimento da base em **Estatística e Ciência de Dados**.
 - Construção de projetos reproduzíveis, com código organizado e conclusões fundamentadas.
 
