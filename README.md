@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Estudante de Estatística e Ciência de Dados na Universidade de São Paulo (USP)</strong><br>
-  Interessado em análise de dados, estatística aplicada e aprendizado de máquina.
+  Interessado em análise de dados, estatística aplicada, modelagem preditiva e inteligência artificial.
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 Sou estudante de **Estatística e Ciência de Dados na USP** e gosto de transformar perguntas reais em análises fundamentadas em dados. Tenho interesse especial em **inferência estatística, modelagem preditiva, avaliação de modelos e interpretação de resultados**.
 
-Atualmente, estou desenvolvendo projetos para meu portfólio e buscando **oportunidades de estágio na área de Dados e Inteligência Artificial**.
+Atualmente, desenvolvo projetos para meu portfólio e busco **oportunidades de estágio em Dados, Analytics e Inteligência Artificial**.
 
 ### Ferramentas e conhecimentos
 
@@ -33,9 +33,9 @@ Atualmente, estou desenvolvendo projetos para meu portfólio e buscando **oportu
 - **Ciência de Dados:** preparação de dados, pipelines, validação cruzada e interpretação de modelos.
 - **Programação e visualização:** Python, R, Pandas, NumPy, Matplotlib e bibliotecas de análise estatística.
 
-### Projeto em destaque
+### Projetos
 
-#### [Telco Customer Churn — Análise Estatística e Machine Learning](https://github.com/weltonnmartin/telco-customer-churn)
+#### 📊 [Telco Customer Churn — Análise Estatística e Machine Learning](https://github.com/weltonnmartin/telco-customer-churn)
 
 Projeto de classificação para identificar clientes com maior propensão ao cancelamento, desenvolvido com uma base pública de **7.043 clientes**. Inclui análise exploratória, testes estatísticos, comparação de classificadores, estratégias de balanceamento e avaliação em dados de teste.
 
@@ -48,11 +48,17 @@ Projeto de classificação para identificar clientes com maior propensão ao can
 
 📂 **[Explorar o repositório e o notebook](https://github.com/weltonnmartin/telco-customer-churn)**
 
+#### 🛠️ PC Price Intelligence — Em desenvolvimento
+
+Projeto de Ciência de Dados em desenvolvimento, voltado à **análise de preços de computadores e componentes**. A proposta é explorar dados de anúncios e investigar padrões de precificação, conectando coleta de dados, análise estatística e modelagem.
+
+> **Status:** em desenvolvimento. Metodologia, resultados e código serão divulgados conforme o projeto avançar.
+
 ### No que estou trabalhando
 
+- Desenvolvimento do **PC Price Intelligence**.
 - Fortalecimento da base em **Estatística e Ciência de Dados**.
-- Desenvolvimento de projetos reproduzíveis, com código organizado e conclusões fundamentadas.
-- Aplicação de métodos estatísticos e machine learning a problemas reais.
+- Construção de projetos reproduzíveis, com código organizado e conclusões fundamentadas.
 
 ---
 
